@@ -1,4 +1,4 @@
-# spintronics
+# spintronics - CMOS-MTJ-Hybrid-Netlists
 Hybrid CMOS-MTJ logic circuit SPICE Netlists
 
 These are Simulation Program with Integrated Circuit Emphasis (SPICE) netlists of some hybrid Complementary metal oxide semiconductor (CMOS) and Magnetic tuneling junciton (MTJ) circuits which I worked on during my research internship at the Indian Institute of Technology, Varanasi.
